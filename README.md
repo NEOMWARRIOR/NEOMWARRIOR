@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @NEOMWARRIOR
 - 👀 I’m interested in Rom Development
 - 🌱 I’m currently learning C++
-- 📫 How to reach me Telegram
